@@ -13,4 +13,3 @@ This is a sample Spring MVC application where we are understanding the use of in
 
 [Difference between Filter and HandlerIntercepter](https://stackoverflow.com/questions/35856454/difference-between-interceptor-and-filter-in-spring-mvc)
 
-Vinod - Colabra - Wipro - 4+yr - Java, NodeJs - 8.4LPA
